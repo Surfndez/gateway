@@ -70,7 +70,7 @@
     "web-push": "^3.3.5",
     "winston": "^3.2.1",
     "winston-daily-rotate-file": "^3.10.0",
-    "ws": "^7.1.0"
+    "ws": "^7.4.6"
   },
   "optionalDependencies": {
     "ursa": "^0.9.4"
